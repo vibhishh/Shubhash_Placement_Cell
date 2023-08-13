@@ -1,7 +1,7 @@
 {
   "name": "placement-cell",
   "version": "1.0.0",
-  "description": "Placement cell application for career camp team",
+  "description": "Placement cell application for Career Camp Batches",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/developeramit14jan/PlacementCell.git"
+    "url": "https://github.com/subhash202122/Placement_Cell.git"
   },
   "author": "Subhash Chandra Verma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/developeramit14jan/PlacementCell/issues"
+    "url": "https://github.com/subhash202122/Placement_Cell//issues"
   },
-  "homepage": "https://github.com/developeramit14jan/PlacementCell#readme",
+  "homepage": "https://github.com/subhash202122/Placement_Cell",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
