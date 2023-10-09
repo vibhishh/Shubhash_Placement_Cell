@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Expose a port (if your application runs on a specific port)
-EXPOSE 8080
+EXPOSE 8000
 
 # Define the command to run your application (e.g., for a Node.js app)
 CMD [ "node", "index.js" ]
